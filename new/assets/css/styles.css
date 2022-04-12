@@ -1,0 +1,26 @@
+.stats-header {
+  padding: 16px;
+  background: rgba(25,25,25,0.91);
+}
+
+.song-title {
+  width: 100%;
+  padding: 10px;
+  border-radius: 9px;
+  background-color: rgba(255,255,255,0.03);
+}
+
+p {
+  font-size: 13px;
+}
+
+.fas.fa-circle.live {
+  color: #8f3737;
+  animation: blinker 3s linear infinite;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
