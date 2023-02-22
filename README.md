@@ -1,4 +1,4 @@
-# TruckersFM | Streamer Stats Overlay
+# Radio Station | Streamer Stats Overlay
 
 This is an unofficial Streamer Stats overlay, which can be used by anybody on their streams.  
 Just add a **Browser Source** on your trusty streaming software, and paste in the URL below.
