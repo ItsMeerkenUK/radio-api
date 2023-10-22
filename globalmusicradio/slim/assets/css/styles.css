@@ -1,0 +1,28 @@
+.stats_background {
+  width: 300px;
+  height: 60px;
+  position: absolute;
+  bottom: 0;
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.781);
+}
+
+.full-width {
+  width: 300px;
+  height: inherit;
+  background: rgba(0,0,0,0.98);
+  border-radius: 11px;
+  padding: 10px;
+}
+
+.title {
+  text-overflow: ellipsis;
+}
+
+.artist {
+  text-overflow: ellipsis ellsis;
+}
+
+.presenter {
+text-overflow: ellipsis;
+}
